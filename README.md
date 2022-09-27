@@ -37,16 +37,15 @@ methods:
 ```
 
 ## ➡ Organização dos arquivos
-Siga o modelo abaixo quando subir uma contribuição
+Se deseja submeter uma contribuição, crie uma pasta com o nome da linguagem utilizada e adicione dois arquivos: `cart` e `product`.
+Exemplo:
 ```
 - cart-class
     python
         | cart.py
         | product.py
-        | .gitignore // especifico para python
     cpp
         | cart.cpp
         | product.cpp
-        | .gitignore // especifico para C++
     README.md <- você está aqui
 ```
