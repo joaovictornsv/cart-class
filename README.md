@@ -52,5 +52,5 @@ Siga o modelo abaixo quando subir uma contribuição
       | cart.cpp
       | product.cpp
       | .gitignore // especifico para C++
-  | README.md 
+  | README.md <- você está aqui
 ```
