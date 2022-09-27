@@ -40,17 +40,17 @@ methods:
 Siga o modelo abaixo quando subir uma contribuição
 ```
 - cart-class
-  | python
+  python
       | cart.py
       | product.py
       | .gitignore // especifico para python
-  | javascript
+  javascript
       | cart.js
       | product.js
       | .gitignore // especifico para javascript
-  | cpp
+  cpp
       | cart.cpp
       | product.cpp
       | .gitignore // especifico para C++
-  | README.md <- você está aqui
+  README.md <- você está aqui
 ```
