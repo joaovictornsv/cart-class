@@ -44,10 +44,6 @@ Siga o modelo abaixo quando subir uma contribuição
         | cart.py
         | product.py
         | .gitignore // especifico para python
-    javascript
-        | cart.js
-        | product.js
-        | .gitignore // especifico para javascript
     cpp
         | cart.cpp
         | product.cpp
