@@ -12,7 +12,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [ ] Rust
 
 ## ➡ Implementação
-A classe e seus métodos devem seguir os seguintes contratos:
+As classes e seus métodos devem seguir os seguintes contratos:
 
 ### class: Product 📦
 ```
