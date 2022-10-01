@@ -6,3 +6,15 @@ class Product:
         self._code = code
         self._price = price 
         self._name = name
+
+    #Code getter 
+    @property
+    def code(self):
+        return self._code 
+
+    #Code setter
+    @code.setter 
+    def code(self,cod):
+        if not isinstance(cod,str):
+            print('The code is wrong, try again!')
+        self._code = cod 
