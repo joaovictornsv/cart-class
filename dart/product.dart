@@ -1,5 +1,3 @@
-import 'dart:async';
-
 class Product {
   late String _name;
   late String _code;
