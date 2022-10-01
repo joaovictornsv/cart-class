@@ -4,7 +4,7 @@ class Product {
       this.name = name;
       this.price = price;
     }
-    // Getter
+
     get get_code() {
       return this.code;
     }
@@ -16,7 +16,7 @@ class Product {
     get get_price() {
         return this.price;
     }
-    // Method
+
   }
   
   const product = new Product(123, 'Aerofólio para o meu Palio', 250);
