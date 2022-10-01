@@ -5,7 +5,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 ## ➡ Progresso
 - [X] Python
 - [X] Dart
-- [ ] Javascript / Typescript
+- [X] Javascript / Typescript
 - [ ] Java
 - [ ] C++
 - [ ] C#
