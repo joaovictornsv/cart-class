@@ -10,6 +10,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [ ] C#
 - [ ] Go
 - [ ] Rust
+- [ ] System Verilog
 
 ## ➡ Implementação
 A classe e seus métodos devem seguir os seguintes contratos:
