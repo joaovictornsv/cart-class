@@ -7,12 +7,10 @@ class Product:
         self._price = price 
         self._name = name
 
-    #Code getter 
     @property
     def code(self):
         return self._code 
 
-    #Code setter
     @code.setter 
     def code(self,cod):
         if not isinstance(cod,str):
@@ -24,7 +22,6 @@ class Product:
     def price(self):
         return self._price
 
-    #Code setter
     @code.setter 
     def price(self,price_in):
         if not isinstance(price_in,str):
