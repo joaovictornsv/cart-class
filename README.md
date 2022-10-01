@@ -12,7 +12,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [ ] Go
 - [ ] Rust
 - [ ] System Verilog
-- [ ] PHP
+- [X] PHP
 
 ## ➡ Implementação
 As classes e seus métodos devem seguir os seguintes contratos:
