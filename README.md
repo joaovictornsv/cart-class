@@ -2,6 +2,17 @@
 
 Repositório que contém a implementação da famosa classe "Carrinho de Compras" em diversas linguagens.
 
+## ➡ Progresso
+- [ ] Python
+- [ ] Javascript / Typescript
+- [ ] Java
+- [ ] C++
+- [ ] C#
+- [ ] Go
+- [ ] Rust
+
+- Javascript
+
 ## ➡ Implementação
 A classe e seus métodos devem seguir os seguintes contratos:
 
