@@ -17,4 +17,5 @@ class Product:
     def code(self,cod):
         if not isinstance(cod,str):
             print('The code is wrong, try again!')
+            return
         self._code = cod 
