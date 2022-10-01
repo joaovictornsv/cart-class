@@ -20,7 +20,3 @@ class Product {
   }
   
   const product = new Product(123, 'Aerofólio para o meu Palio', 250);
-  
-  console.log(product.get_code); //123
-  console.log(product.get_name); //Aerofólio para o meu Palio
-  console.log(product.get_price); //250
