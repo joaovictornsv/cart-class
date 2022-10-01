@@ -22,10 +22,21 @@ class Product:
     def price(self):
         return self._price
 
-    @code.setter 
+    @price.setter 
     def price(self,price_in):
-        if not isinstance(price_in,str):
+        if not isinstance(price_in,float):
             print('The price is wrong, try again!')
             return
         self._price = price_in
+    
+    @property
+    def name(self):
+        return self._name
+
+    @name.setter 
+    def name(self,name_in):
+        if not isinstance(name_in,str):
+            print('The name is wrong, try again!')
+            return
+        self._name = name_in
 
