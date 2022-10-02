@@ -7,7 +7,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [X] Dart
 - [X] Javascript / Typescript
 - [ ] Java
-- [ ] C++
+- [X] C++
 - [ ] C#
 - [ ] Go
 - [ ] Rust
