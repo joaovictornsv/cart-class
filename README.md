@@ -6,12 +6,12 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [X] Python
 - [X] Dart
 - [X] Javascript / Typescript
-- [ ] Java
+- [X] Java
 - [X] C++
-- [ ] C#
-- [ ] Go
+- [X] C#
+- [X] Go
 - [ ] Rust
-- [ ] System Verilog
+- [X] System Verilog
 - [X] PHP
 
 ## ➡ Implementação
