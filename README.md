@@ -10,7 +10,7 @@ Repositório que contém a implementação da famosa classe "Carrinho de Compras
 - [X] C++
 - [X] C#
 - [X] Go
-- [ ] Rust
+- [X] Rust
 - [X] System Verilog
 - [X] PHP
 
